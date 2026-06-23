@@ -1,6 +1,11 @@
 GBS8200 line doubling driver
 ============================
 
+About this fork
+-------------
+
+This fork brings compatibility with PlatformIO/pioarduino.
+
 What is that?
 -------------
 
